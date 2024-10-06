@@ -18,7 +18,7 @@ The integration of these tools enables us to process and analyze the data effici
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
@@ -32,7 +32,7 @@ Implenting raw data from wikipedia to the custom TF-IDF model:  <br/>
 <br />
 <br />
 Processing and analysing Data efficiently Using the (KEY:SHIFT ENTER) <br/>
-<img src="example2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="example 2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 TF-IDF Data model complete:  <br/>
