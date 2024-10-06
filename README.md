@@ -24,12 +24,11 @@ The integration of these tools enables us to process and analyze the data effici
 
 <p align="center">
 Launch EMR WORKSPACE Running PySpark: <br/>
-<img (https://github.com/user-attachments/assets/20c2bbde-6fda-4a98-a063-56ebc54b8a5f)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="example.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img [src="https://i.imgur.com/tcTyMUE.png](https://imgur.com/meP1q6v)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img [src="https://imgur.com/a/1tdkfQP" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
