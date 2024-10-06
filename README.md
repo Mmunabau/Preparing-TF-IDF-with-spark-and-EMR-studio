@@ -24,19 +24,22 @@ The integration of these tools enables us to process and analyze the data effici
 
 <p align="center">
 Launch EMR WORKSPACE Running PySpark: <br/>
- <img src="example.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="example.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
+ 
 <br />
 Implenting raw data from wikipedia to the custom TF-IDF model:  <br/>
-<img [src="example1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="example1.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
+
 <br />
 Processing and analysing Data efficiently Using the (KEY:SHIFT ENTER) <br/>
-<img src="example 2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="example 2.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
+
 <br />
 TF-IDF Data model complete:  <br/>
-<img src="example3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="example3.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
 <br />
 </p>
